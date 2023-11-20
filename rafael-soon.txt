@@ -2,5 +2,3 @@ RAFAEL SOON
 - Bikin web-server
 - Lancar php sama javascript
 - Bikin web untuk share gambar
-- Semester 3 ipk 4
-- Jalan ke xxi
